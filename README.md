@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Sundaran Kumar
+#### Senior Software Engineer from Canada
+![Senior Software Engineer from Canada](https://github.com/daran9/daran9/blob/main/Cover.png)
 
-<!--
-**daran9/daran9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building Microservices with REST APIs using AWS for checkout.com, a fintech company
 
-Here are some ideas to get you started:
+Skills: C# / .NET/ JS / Python / Go / AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on REST APIs 
+- 🌱 I’m currently learning APIs in GO 
+- ⚡ Fun fact: I like photography and hiking 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/daran9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/daran9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/daran9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://daran9.wordpress.com/)  
