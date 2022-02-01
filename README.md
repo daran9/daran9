@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sundaran Kumar
 #### Senior Software Engineer from Canada
-![Senior Software Engineer from Canada](https://github.com/daran9/daran9/blob/main/Cover.png)
+![Senior Software Engineer from Canada](https://github.com/daran9/daran9/blob/main/Banner.png)
 
 I'm building Microservices with REST APIs using AWS for checkout.com, a fintech company
 
